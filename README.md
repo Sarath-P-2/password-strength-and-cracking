@@ -123,10 +123,20 @@ chmod +x crack_all_zips.sh
 * ![John Cracking Output](john_results.png)
 
 ---
-
 ## Conclusion
+From the cracking results, it was clear that:
+- **Weak passwords** (like `hello123`) were cracked almost instantly because they are common and appear in public wordlists such as `rockyou.txt`.
+- **Medium complexity passwords** resisted cracking because they included a mix of uppercase, lowercase, numbers, and symbols, and were not present in the wordlist used.
+- **Strong and very strong passwords** remained uncracked within the test timeframe, proving that increased length, randomness, and complexity greatly reduce the risk of successful brute-force or dictionary attacks.
 
-Weak passwords are easily cracked with common wordlists.
-Using **long, complex, and unique passwords** significantly improves security and prevents dictionary-based attacks.
+### Why Strong Passwords Matter
+Attackers often use automated tools and pre-compiled wordlists to guess passwords.  
+The stronger and less predictable your password, the more time and computational power it takes to crack — often making it impractical or impossible within a reasonable time frame.
 
+### How to Create a Strong Password
+- Use **at least 12–16 characters**.
+- Include **uppercase letters, lowercase letters, numbers, and symbols**.
+- Avoid dictionary words, names, and predictable patterns.
+- Don’t reuse passwords across multiple accounts.
+- Use a **passphrase** (random but memorable combination of words) or a password manager to store complex passwords.
 ---
