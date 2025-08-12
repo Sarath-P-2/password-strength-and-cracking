@@ -1,4 +1,4 @@
-# password-strength-and-cracking
+# Password-Strength-and-Cracking
 
 ## Objective
 Demonstrate password security by creating password-protected ZIP archives of varying complexity, then attempting to crack them using **John the Ripper** in Kali Linux.
