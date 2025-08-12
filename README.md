@@ -119,7 +119,6 @@ chmod +x crack_all_zips.sh
 
 ## Screenshots
 * ![Creating Password-Protected ZIP](create_zip.png)
-* ![Converting ZIP to Hash](zip2john.png)
 * ![John Cracking Output](john_results.png)
 
 ---
